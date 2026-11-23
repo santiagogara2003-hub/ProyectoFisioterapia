@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sagoo\\OneDrive\\Documents\\Proyectos\\Proyecto Fisioterapia\\Backend\\ProyectoFisioterapia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{671D11D1-A573-4A4B-9D1F-566B2A81F573}|ProyectoFisioterapia\\ProyectoFisioterapia.csproj|c:\\users\\sagoo\\onedrive\\documents\\proyectos\\proyecto fisioterapia\\backend\\proyectofisioterapia\\proyectofisioterapia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671D11D1-A573-4A4B-9D1F-566B2A81F573}|ProyectoFisioterapia\\ProyectoFisioterapia.csproj|solutionrelative:proyectofisioterapia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671D11D1-A573-4A4B-9D1F-566B2A81F573}|ProyectoFisioterapia\\ProyectoFisioterapia.csproj|c:\\users\\sagoo\\onedrive\\documents\\proyectos\\proyecto fisioterapia\\backend\\proyectofisioterapia\\proyectofisioterapia\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671D11D1-A573-4A4B-9D1F-566B2A81F573}|ProyectoFisioterapia\\ProyectoFisioterapia.csproj|solutionrelative:proyectofisioterapia\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671D11D1-A573-4A4B-9D1F-566B2A81F573}|ProyectoFisioterapia\\ProyectoFisioterapia.csproj|c:\\users\\sagoo\\onedrive\\documents\\proyectos\\proyecto fisioterapia\\backend\\proyectofisioterapia\\proyectofisioterapia\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671D11D1-A573-4A4B-9D1F-566B2A81F573}|ProyectoFisioterapia\\ProyectoFisioterapia.csproj|solutionrelative:proyectofisioterapia\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671D11D1-A573-4A4B-9D1F-566B2A81F573}|ProyectoFisioterapia\\ProyectoFisioterapia.csproj|c:\\users\\sagoo\\onedrive\\documents\\proyectos\\proyecto fisioterapia\\backend\\proyectofisioterapia\\proyectofisioterapia\\proyectofisioterapia.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{671D11D1-A573-4A4B-9D1F-566B2A81F573}|ProyectoFisioterapia\\ProyectoFisioterapia.csproj|solutionrelative:proyectofisioterapia\\proyectofisioterapia.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Sagoo\\OneDrive\\Documents\\Proyectos\\Proyecto Fisioterapia\\Backend\\ProyectoFisioterapia\\ProyectoFisioterapia\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ProyectoFisioterapia\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Sagoo\\OneDrive\\Documents\\Proyectos\\Proyecto Fisioterapia\\Backend\\ProyectoFisioterapia\\ProyectoFisioterapia\\WeatherForecast.cs",
+              "RelativeToolTip": "ProyectoFisioterapia\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T21:48:45.877Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Sagoo\\OneDrive\\Documents\\Proyectos\\Proyecto Fisioterapia\\Backend\\ProyectoFisioterapia\\ProyectoFisioterapia\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProyectoFisioterapia\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Sagoo\\OneDrive\\Documents\\Proyectos\\Proyecto Fisioterapia\\Backend\\ProyectoFisioterapia\\ProyectoFisioterapia\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProyectoFisioterapia\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T21:48:08.62Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProyectoFisioterapia.http",
+              "DocumentMoniker": "C:\\Users\\Sagoo\\OneDrive\\Documents\\Proyectos\\Proyecto Fisioterapia\\Backend\\ProyectoFisioterapia\\ProyectoFisioterapia\\ProyectoFisioterapia.http",
+              "RelativeDocumentMoniker": "ProyectoFisioterapia\\ProyectoFisioterapia.http",
+              "ToolTip": "C:\\Users\\Sagoo\\OneDrive\\Documents\\Proyectos\\Proyecto Fisioterapia\\Backend\\ProyectoFisioterapia\\ProyectoFisioterapia\\ProyectoFisioterapia.http",
+              "RelativeToolTip": "ProyectoFisioterapia\\ProyectoFisioterapia.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-23T21:47:53.82Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sagoo\\OneDrive\\Documents\\Proyectos\\Proyecto Fisioterapia\\Backend\\ProyectoFisioterapia\\ProyectoFisioterapia\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoFisioterapia\\Program.cs",
+              "ToolTip": "C:\\Users\\Sagoo\\OneDrive\\Documents\\Proyectos\\Proyecto Fisioterapia\\Backend\\ProyectoFisioterapia\\ProyectoFisioterapia\\Program.cs*",
+              "RelativeToolTip": "ProyectoFisioterapia\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T21:22:26.058Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

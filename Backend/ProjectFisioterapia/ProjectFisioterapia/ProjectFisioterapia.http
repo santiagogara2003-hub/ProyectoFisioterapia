@@ -1,0 +1,6 @@
+@ProjectFisioterapia_HostAddress = http://localhost:5217
+
+GET {{ProjectFisioterapia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
